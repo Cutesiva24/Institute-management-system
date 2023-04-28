@@ -1,0 +1,21 @@
+@charset "UTF-8";
+@charset "UTF-8";
+body{
+	
+	background-image: url("https://www.logolynx.com/images/logolynx/23/23938578fb8d88c02bc59906d12230f3.png");
+	background-repeat:no-repeat;
+	background-position:right top;
+	background-color:pink;
+	margin-right:20px;
+	
+}
+
+
+
+
+h1{
+	color:maroon;
+	margin-left:40px
+
+}
+
